@@ -4,7 +4,7 @@
 
 ![bubble.gif](./bubble.gif)
 
-[在线演示](http://seejs.me/jquery.bubble/demo/)
+[在线演示](http://newjs.vip/jquery.bubble/demo/)
 
 ### 安装方法
 
